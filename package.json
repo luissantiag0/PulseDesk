@@ -1,0 +1,24 @@
+{
+  "name": "pulsedesk",
+  "version": "1.0.0",
+  "description": "Plataforma de ayuda en el sector IT desarrollada progresivamente mientras aprendía desarrollo web, backend, API e IA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luissantiag0/PulseDesk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luissantiag0/PulseDesk/issues"
+  },
+  "homepage": "https://github.com/luissantiag0/PulseDesk#readme",
+  "devDependencies": {
+    "sass": "^1.105.0"
+  }
+}
